@@ -38,7 +38,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
     list-style-type: none;
     display: flex;
     flex-direction: column;
-    gap: 12px;    
+    gap: 12px;
 }
 
 .header__menu-link {
@@ -171,7 +171,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 
 .card__author-photo {
     width: 100px;
-    height: 100px;  
+    height: 100px;
 }
 
 .card__author-name {
@@ -202,7 +202,7 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, blockquote {
 .footer__links {
     list-style-type: none;
     display: flex;
-    gap: 16px;    
+    gap: 16px;
 }
 
 .footer__links-item_link {
